@@ -6,9 +6,9 @@ Chrome Extension for searching selected text in swedish price comparison service
 
 ## Install
 
-+ In Chrome open extensions. Window -> Extensions. Or goto this url in the Chrome address bar ``open chrome://extensions/``
-+ Click + Developer mode ("Programmerarläge")
-+ Click Load unpacked extension… ("Hämta okomprimerat tillägg")
++ In Chrome. Open Extensions. Window -> Extensions (Fönster -> tillägg). Or goto this url in the Chrome address bar ``open chrome://extensions/``
++ Click + Developer mode (Programmerarläge)
++ Click Load unpacked extension… (Hämta okomprimerat tillägg)
 + Navigate to the ``prisjakt-hogerklick`` folder, where you saved it
 + Enjoy!
 
@@ -18,7 +18,7 @@ Chrome Extension for searching selected text in swedish price comparison service
 
 1. Select text on a webpage
 2. Right click
-3. Choose "Prisjakt"
+3. Choose "Sök på Prisjakt"
 
 ## Changelog
 
