@@ -12,6 +12,8 @@ Chrome Extension for searching selected text in swedish price comparison service
 + Navigate to the ``prisjakt-hogerklick`` folder, where you saved it
 + Enjoy!
 
+![prisjakt](https://cloud.githubusercontent.com/assets/307676/13906567/95b139fc-eed9-11e5-96aa-fce851631458.png)
+
 ## Usage
 
 1. Select text on a webpage
