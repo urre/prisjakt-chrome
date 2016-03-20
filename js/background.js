@@ -15,14 +15,17 @@ Prisjakt Högerklick
 
 			chrome.runtime.onInstalled.addListener(function() {
 				var context = "selection";
-				var title = "Prisjakt";
-				var id = chrome.contextMenus.create({"title": title, "contexts":[context],
-					"id": "context" + context});  
+				var title = "Sök på Prisjakt";
+				var id = chrome.contextMenus.create({
+					"title": title, 
+					"contexts": [context],
+					"id": "context" + context
+				});
 			});
 
 		},
 
-		selectText: function(info, tab) {
+		selectText: function(info) {
 			var phrase = info.selectionText;
 			prisjaktHogerklick.openPrisjakt(phrase);
 		},
@@ -36,10 +39,7 @@ Prisjakt Högerklick
 	};
 
 	document.addEventListener('DOMContentLoaded', function() { 
-	        prisjaktHogerklick.init();
-	    });
-
-
+		prisjaktHogerklick.init();
+	});
 
 }());
-

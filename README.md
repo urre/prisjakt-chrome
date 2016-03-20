@@ -10,7 +10,7 @@ Chrome Extension for searching selected text in swedish price comparison service
 + Click + Developer mode ("Programmerarläge")
 + Click Load unpacked extension… ("Hämta okomprimerat tillägg")
 + Navigate to the ``prisjakt-hogerklick`` folder, where you saved it
-+ Done!
++ Enjoy!
 
 ## Usage
 
