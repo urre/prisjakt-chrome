@@ -28,7 +28,7 @@ Prisjakt Högerklick
 		},
 
 		openPrisjakt: function(phrase) {
-			var encodedQuery = encodeURIComponent("define " + phrase);
+			var encodedQuery = encodeURIComponent(phrase);
 			var url = "http://www.prisjakt.nu/#rparams=ss=" + encodedQuery;
 			window.open(url, '_blank');
 		}
