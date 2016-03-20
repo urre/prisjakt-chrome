@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Prisjakt Högerklick",
+  "version": "1.0.0",
+  "description": "Opens the selected text in Prisjakt.nu",
+  "author": "Urban Sanden", 
+  "permissions": ["contextMenus"],
+  "background": {
+   "persistent": false,
+   "scripts": ["js/background.js"]
+   },
+   "icons": {
+     "16": "images/favicon.png",
+     "128": "images/favicon.png"
+    }
+}
