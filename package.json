@@ -1,0 +1,17 @@
+{
+  "name": "prosjakt-hogerklick",
+  "title": "Chrome Extension for searching selected text in swedish price comparison service Prisjakt.nu",
+  "url": "https://github.com/urre/prisjakt-hogerklick",
+  "author": "Urban Sanden",
+  "version": "1.0.8",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-vinyl-zip": "^1.1.2",
+    "require-dir": "*"
+  },
+  "devDependencies": {
+    "gulp-zip": "^3.0.2"
+  }
+}
