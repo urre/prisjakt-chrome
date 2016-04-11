@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------
-Prisjakt Högerklick
+Prisjakt right click
 @urre 160320
 -------------------------------------------------------------------*/
 
@@ -15,7 +15,7 @@ Prisjakt Högerklick
 
 			chrome.runtime.onInstalled.addListener(function() {
 				var context = "selection";
-				var title = "Sök på Prisjakt";
+				var title = "Sök ”%s” på Prisjakt";
 				var id = chrome.contextMenus.create({
 					"title": title, 
 					"contexts": [context],

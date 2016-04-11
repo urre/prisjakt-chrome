@@ -1,7 +1,7 @@
 {
-  "name": "prosjakt-hogerklick",
+  "name": "prosjakt-rightclick",
   "title": "Chrome Extension for searching selected text in swedish price comparison service Prisjakt.nu",
-  "url": "https://github.com/urre/prisjakt-hogerklick",
+  "url": "https://github.com/urre/prisjakt-rightclick",
   "author": "Urban Sanden",
   "version": "1.0.8",
   "private": true,
