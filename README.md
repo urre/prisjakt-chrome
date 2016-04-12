@@ -6,6 +6,10 @@ Chrome Extension for searching selected text in swedish price comparison service
 
 ## Install
 
+### [Install from Google Web Store](https://chrome.google.com/webstore/detail/iaehbbiehjnognhkocblclmoekefopoi)
+
+### Manual installation
+
 + In Chrome. Open Extensions. Window -> Extensions (Fönster -> tillägg). Or goto this url in the Chrome address bar ``open chrome://extensions/``
 + Click + Developer mode ("Programmerarläge" in Swedish)
 + Click Load unpacked extension… ("Hämta okomprimerat tillägg" in Swedish)
