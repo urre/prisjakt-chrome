@@ -4,6 +4,8 @@
 
 Chrome Extension for searching selected text in swedish price comparison service [Prisjakt.nu](http://prisjakt.nu).
 
+![screenshot](https://cloud.githubusercontent.com/assets/307676/14459670/8d419694-00b9-11e6-8361-75a63fd9299b.png)
+
 ## Install
 
 ### [Install from Google Web Store](https://chrome.google.com/webstore/detail/iaehbbiehjnognhkocblclmoekefopoi)
@@ -15,8 +17,6 @@ Chrome Extension for searching selected text in swedish price comparison service
 + Click Load unpacked extension… ("Hämta okomprimerat tillägg" in Swedish)
 + Navigate to the ``prisjakt-chrome`` folder, where you saved it
 + Enjoy!
-
-![prisjakt](https://cloud.githubusercontent.com/assets/307676/14438692/a828b042-0027-11e6-9fd5-dd06baaf3af1.png)
 
 ## Usage
 
