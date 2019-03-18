@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Prisjakt Chrome",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Opens the selected text in Prisjakt.nu",
-  "author": "Urban Sanden", 
+  "author": "Urban Sanden",
   "permissions": ["contextMenus"],
   "background": {
    "persistent": false,

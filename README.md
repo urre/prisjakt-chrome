@@ -4,7 +4,7 @@
 
 Chrome Extension for searching selected text in swedish price comparison service [Prisjakt.nu](http://prisjakt.nu).
 
-![screenshot](https://cloud.githubusercontent.com/assets/307676/14459670/8d419694-00b9-11e6-8361-75a63fd9299b.png)
+![screenshot](https://res.cloudinary.com/urre/image/upload/v1552914903/q0hrqanj3fcsdhbudxk8.jpg)
 
 ## Install
 
@@ -27,7 +27,7 @@ Chrome Extension for searching selected text in swedish price comparison service
 ## Changelog
 
 #### 2019-03-18
-Updated to match Prisjakt new website. Thanks to @merisbahti
+Updated to match Prisjakt new website. Thanks you [Meris Bahtijaragic](https://github.com/merisbahti)
 
 #### 2016-4-11
 Added selection to context menu title
