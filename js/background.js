@@ -32,7 +32,7 @@ Prisjakt right click
 
 		openPrisjakt: function(phrase) {
 			var encodedQuery = encodeURIComponent(phrase);
-			var url = "http://www.prisjakt.nu/search?search=" + encodedQuery;
+			var url = "https://www.prisjakt.nu/search?search=" + encodedQuery;
 			window.open(url, '_blank');
 		}
 
