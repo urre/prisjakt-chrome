@@ -3,7 +3,7 @@
   "title": "Chrome Extension for searching selected text in swedish price comparison service Prisjakt.nu",
   "url": "https://github.com/urre/prisjakt-rightclick",
   "author": "Urban Sanden",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "dependencies": {
     "browser-sync": "*",
