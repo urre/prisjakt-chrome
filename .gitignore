@@ -1,5 +1,5 @@
 .DS_Store
 *.pem
 key.pem
-.zip
+*.zip
 node_modules

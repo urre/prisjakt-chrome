@@ -1,17 +1,14 @@
 {
-  "name": "prosjakt-rightclick",
+  "name": "prisjakt-chrome",
   "title": "Chrome Extension for searching selected text in swedish price comparison service Prisjakt.nu",
-  "url": "https://github.com/urre/prisjakt-rightclick",
+  "url": "https://github.com/urre/prisjakt-chrome",
   "author": "Urban Sanden",
   "version": "1.1.1",
   "private": true,
-  "dependencies": {
-    "browser-sync": "*",
-    "gulp": "*",
-    "gulp-vinyl-zip": "^1.1.2",
-    "require-dir": "*"
-  },
   "devDependencies": {
-    "gulp-zip": "^3.0.2"
+    "gulp": "3.9.1",
+    "gulp-vinyl-zip": "^1.1.2",
+    "gulp-zip": "^3.0.2",
+    "require-dir": "^1.2.0"
   }
 }
