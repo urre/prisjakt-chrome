@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------------
-Prisjakt Högerklick
+Prisjakt right click
 @urre 160320
 -------------------------------------------------------------------*/
 
@@ -15,9 +15,9 @@ Prisjakt Högerklick
 
 			chrome.runtime.onInstalled.addListener(function() {
 				var context = "selection";
-				var title = "Sök på Prisjakt";
+				var title = "Sök ”%s” på Prisjakt";
 				var id = chrome.contextMenus.create({
-					"title": title, 
+					"title": title,
 					"contexts": [context],
 					"id": "context" + context
 				});
@@ -32,13 +32,13 @@ Prisjakt Högerklick
 
 		openPrisjakt: function(phrase) {
 			var encodedQuery = encodeURIComponent(phrase);
-			var url = "http://www.prisjakt.nu/#rparams=ss=" + encodedQuery;
+			var url = "http://www.prisjakt.nu/search?search=" + encodedQuery;
 			window.open(url, '_blank');
 		}
 
 	};
 
-	document.addEventListener('DOMContentLoaded', function() { 
+	document.addEventListener('DOMContentLoaded', function() {
 		prisjaktHogerklick.init();
 	});
 
